@@ -1,0 +1,4 @@
+debut test 
+
+on choisit le dossier sur git shell
+on tape git init
