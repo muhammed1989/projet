@@ -1,0 +1,9 @@
+c:\users\mehmet\documents\visual studio 2012\Projects\LocalServer\LocalServer\bin\Debug\LocalServer.exe.config
+c:\users\mehmet\documents\visual studio 2012\Projects\LocalServer\LocalServer\bin\Debug\LocalServer.exe
+c:\users\mehmet\documents\visual studio 2012\Projects\LocalServer\LocalServer\bin\Debug\LocalServer.pdb
+c:\users\mehmet\documents\visual studio 2012\Projects\LocalServer\LocalServer\obj\Debug\LocalServer.csprojResolveAssemblyReference.cache
+c:\users\mehmet\documents\visual studio 2012\Projects\LocalServer\LocalServer\obj\Debug\LocalServer.exe
+c:\users\mehmet\documents\visual studio 2012\Projects\LocalServer\LocalServer\obj\Debug\LocalServer.pdb
+C:\Users\Muhammed\Desktop\Exam\LocalServer\LocalServer\bin\Debug\LocalServer.exe.config
+C:\Users\Muhammed\Desktop\Exam\LocalServer\LocalServer\obj\Debug\LocalServer.exe
+C:\Users\Muhammed\Desktop\Exam\LocalServer\LocalServer\obj\Debug\LocalServer.pdb
